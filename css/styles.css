@@ -1,0 +1,167 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+hr {
+  border-style:none;
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width:5px;
+  width: 5%;
+  margin-top: 100px;
+
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 5.625rem;
+  color: #3bb4c1;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #3bb4c1;
+  font-weight: normal;
+  margin: 80px auto 50px auto;
+
+}
+
+h3 {
+  color:#048998;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+
+}
+
+p {
+  line-height: 2;
+}
+
+a{
+  color: #3bb4c1;
+  text-decoration: none;
+  margin: 10px;
+
+}
+
+a:hover { color: #f6f5f5;
+
+}
+
+.about-me {
+  width: 30%;
+  margin: auto;
+
+}
+
+.top-container {
+  background-color: #f6f5f5;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+padding-top: 50px;
+}
+
+.bottom-container {
+background-color: #048998;
+position:relative;
+padding-bottom:50px;
+padding-top:30px;
+
+
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width:50%;
+  text-align:left;
+  line-height: 2;
+
+}
+
+.btn{
+  color: #048998;
+}
+
+
+.neshel {
+  width: 10%;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.bottom-smile {
+  position: relative;
+  top: -10px;
+  width:100px;
+}
+
+.site-img {
+  font-size: .5rem;
+
+}
+
+
+.data-png {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ai-png {
+  width: 15%;
+  float:right;
+  margin-left: 30px;
+}
+
+.camera-png {
+  width: 15%;
+  float:left;
+  margin-right: 30px;
+
+}
+
+.contact-me {
+  width: 30%;
+  margin:auto;
+  padding-bottom: 50px;
+
+}
+
+.copyright {
+  color: #e9e4e6;
+  font-size: .8rem;
+  padding: 20px 0;
+}
+.contact-para {
+  padding-bottom: 30px;
+}
+.butn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3bb4c1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #e9e4e6;
+  text-decoration: none;
+}
